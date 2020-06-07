@@ -21,9 +21,9 @@
                 <div class="form-row">
                     <div class="form-group col">
                         {% if not field.errors %}
-                        {% render_field field class+='form-control text-center' placeholder=field.label %}
+                        {% render_field field class+='form-control text-center h1' placeholder=field.label %}
                         {% else %}
-                        {% render_field field class+='form-control text-center border-danger' placeholder=field.label %}
+                        {% render_field field class+='form-control text-center border-danger h1' placeholder=field.label %}
                         {% for error in field.errors %}
                         <small class="text-danger d-block">{{ error }}</small>
                         {% endfor %}
@@ -33,7 +33,7 @@
                 {% endfor %}
                 <div class="form-row">
                     <div class="form-group col">
-                        <button type="submit" class="btn btn-light btn-block">{% trans 'Reset' %}</button>
+                        <button type="submit" class="btn btn-light btn-lg btn-block">{% trans 'Continue' %}</button>
                     </div>
                 </div>
             </form>

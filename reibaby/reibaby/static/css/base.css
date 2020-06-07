@@ -8,6 +8,10 @@ body {
     font-family: 'Noto Sans TC';
 }
 
+input::-webkit-input-placeholder {
+    font-size: 1.2rem;
+}
+
 .photo-frame {
     border: 8px solid rgba(255, 255, 255, .8);
     margin-top: 8px;
