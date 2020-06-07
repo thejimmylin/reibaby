@@ -1,25 +1,10 @@
-* {
-    background-color: rgba(255, 192, 203, 1);
+body {
+    background-color: rgba(255, 192, 203, .5);
     font-family: 'Parisienne', cursive;
     font-size: larger;
 }
 
-.j3y-bg-theme-color-1 {
-    background-color: rgba(255, 192, 203, .1);
-}
-
-.j3y-bg-theme-color-2 {
-    background-color: rgba(255, 192, 203, .2);
-}
-
-.j3y-bg-theme-color-3 {
-    background-color: rgba(255, 192, 203, .3);
-}
-
-.j3y-bg-theme-color-4 {
-    background-color: rgba(255, 192, 203, .4);
-}
-
-.j3y-bg-theme-color-5 {
-    background-color: rgba(255, 192, 203, .5);
+.photo-frame {
+    filter: opacity(85%);
+    border: 8px solid rgba(255, 192, 203, .8);
 }
