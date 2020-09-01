@@ -3,10 +3,14 @@ A birthday card for my girl friend Rei.
 
 https://rei.baby/
 
+# Hosting & Web server
+
 Hosted on GCP with Nginx & uWSGI now.
 
+# Some Screenshots
+
 <img src="https://github.com/j3ygithub/reibaby/blob/master/docs/images/screenshot1.png" width="25%">
-<img src="https://github.com/j3ygithub/reibaby/blob/master/docs/images/screenshot2.png" width="25%">
+<img src="https://github.com/j3ygithub/reibaby/blob/master/docs/images/screenshot2.png" width="20%">
 
 ## Installation
 
