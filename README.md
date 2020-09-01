@@ -1,9 +1,9 @@
 # reibaby
-A birthday card for my girl friend Rei.
 
 https://rei.baby/
 
-Hosted on GCP with Nginx & uWSGI
+A birthday card for my girl friend **Rei**.
+Hosted on **GCP** with **Nginx** & **uWSGI**
 
 # Some Screenshots
 
