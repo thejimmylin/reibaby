@@ -5,10 +5,8 @@ https://rei.baby/
 
 Hosted on GCP with Nginx & uWSGI now.
 
-<p float="left">
-  <img src="https://github.com/j3ygithub/reibaby/blob/master/docs/images/screenshot1.png" width="50%">
-  <img src="https://github.com/j3ygithub/reibaby/blob/master/docs/images/screenshot2.png" width="50%">
-</p>
+<img src="https://github.com/j3ygithub/reibaby/blob/master/docs/images/screenshot1.png" width="25%">
+<img src="https://github.com/j3ygithub/reibaby/blob/master/docs/images/screenshot2.png" width="25%">
 
 ## Installation
 
