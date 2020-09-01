@@ -3,6 +3,8 @@ A birthday card for my girl friend Rei.
 
 https://rei.baby/
 
+Hosted on GCP with Nginx & uWSGI now.
+
 <p float="left">
   <img src="/headers.jpg?" width="20%">
 </p>
