@@ -3,13 +3,7 @@ A birthday card for my girl friend Rei.
 
 https://rei.baby/
 
-# Hosting
-
-Hosted on GCP
-
-# Web server
-
-Nginx & uWSGI
+Hosted on GCP with Nginx & uWSGI
 
 # Some Screenshots
 
