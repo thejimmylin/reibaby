@@ -2,7 +2,7 @@
 
 https://rei.baby/
 
-A birthday card for my girl friend **Rei**.
+A birthday card website for my girl friend **Rei**.
 
 Hosted on **GCP** with **Nginx** & **uWSGI**
 
