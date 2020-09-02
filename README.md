@@ -28,7 +28,7 @@ Windows:
 
 ```
 python -m venv C:\Users\jimmy_lin\envs\reibaby
-C:\Users\jimmy_lin\envs\rj3y\Scripts\activate
+C:\Users\jimmy_lin\envs\reibaby\Scripts\activate
 git clone https://github.com/j3ygithub/reibaby C:\Users\jimmy_lin\repos\reibaby
 pip install -r C:\Users\jimmy_lin\repos\reibaby\requirements.txt
 python C:\Users\jimmy_lin\repos\reibaby\manage.py runserver
