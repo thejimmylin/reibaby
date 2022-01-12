@@ -1,7 +1,5 @@
 # reibaby
 
-https://rei.baby/
-
 A birthday card website for my girlfriend **Rei**.
 
 Hosted on **GCP** with **Nginx** & **uWSGI**
